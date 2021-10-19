@@ -18,3 +18,14 @@ Chủ đề: Thiết kế và xây dựng phần mềm hỗ trợ cho thuê home
  - Linh review Quân
  - Quân review Thái
 
+
+## Tuần 2: 
+ Phân công công việc: 
+ - Thái: làm tiếp đặc tả chủ nhà, thuật ngữ cho chủ nhà, đặc tả phụ trợ
+ - Linh: làm tiếp đặc tả khách thuê, thuật ngữ cho khách thuê, đặc tả phụ trợ
+ - Quân: làm tiếp đặc tả admin hệ thống, thuật ngữ cho admin hệ thống
+
+ Review công việc:
+ - Thái review Linh
+ - Linh review Quân
+ - Quân review Thái
