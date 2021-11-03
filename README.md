@@ -29,3 +29,25 @@ Chủ đề: Thiết kế và xây dựng phần mềm hỗ trợ cho thuê home
  - Thái review Linh
  - Linh review Quân
  - Quân review Thái
+
+## Tuần 3: 
+ Phân công công việc: Làm biểu đồ tuần tự, dựa vào đặc tả tuần 2
+ - Thái: làm tiếp những ca đã theo, tổng hợp
+ - Linh: làm tiếp những gì đã theo, bàn bạc
+ - Quân: làm tiếp những gì đã theo, bàn bạc
+
+ Review công việc:
+ - Thái review Linh
+ - Linh review Quân
+ - Quân review Thái
+
+## Tuần 4: 
+ Phân công công việc: Làm Biểu đồ lớp phân tích, dựa vào biểu dồ tuần tự, đặc tả, cũng như khảo sát
+ - Thái: làm tiếp những gì đã theo, tổng hợp
+ - Linh: làm tiếp những gì đã theo, bàn bạc
+ - Quân: làm tiếp những gì đã theo, bàn bạc
+
+ Review công việc:
+ - Thái review Linh
+ - Linh review Quân
+ - Quân review Thái
